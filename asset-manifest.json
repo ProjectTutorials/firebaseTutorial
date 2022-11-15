@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/firebaseTutorial/static/css/main.31d6cfe0.css",
+    "main.js": "/firebaseTutorial/static/js/main.cf4ab167.js",
+    "index.html": "/firebaseTutorial/index.html",
+    "main.cf4ab167.js.map": "/firebaseTutorial/static/js/main.cf4ab167.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.cf4ab167.js"
+  ]
+}
